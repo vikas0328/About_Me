@@ -5,7 +5,7 @@ Let's connect.
 
 Meet me, Vikas Rangi. I'm transitioning into Data Analytics with hands-on experience in Power BI and data modeling. I bring strong communication skills, logical thinking, and real-world business understanding from customer-facing roles.
 
-<img align="right" alt="GIF" src="https://github.com/vikas0328/About_Me/blob/2e39a40ef29072a28874f7fdc03f17c66dd0dda3/never-stop-learning-symbol-wooden-260nw-2004893450.webp" width="400" height="225" />
+<img align="right" alt="GIF" src="https://github.com/vikas0328/About_Me/blob/fc8aab504a17163761f65585b3d1f554bda57c65/never-stop-learning-symbol-wooden-260nw-2004893450.jpg" width="400" height="225" />
 
 🎯 Aspiring Data Analyst | Power BI | Power Query | Excel | Data Modeling  
 
@@ -16,6 +16,7 @@ Meet me, Vikas Rangi. I'm transitioning into Data Analytics with hands-on experi
 - 👯 Open to collaborating on **Analytics Dashboards**
 - 🎯 Goal: *To develope strong skills in data analysis and transition into AI-focused roles by combining data with artificial intelligence.*  
 - ⚡ **Fun fact:** I enjoy playing chess as much as I enjoy cricket.
+
 ---
 
 ## 💡 Skills & Tools
