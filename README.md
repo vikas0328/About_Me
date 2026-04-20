@@ -3,7 +3,8 @@ Let's connect.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-rangi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vikasrangi0328@outlook.com)<br>
 
-Meet me, Vikas Rangi. I'm transitioning into Data Analytics with hands-on experience in Power BI and data modeling. I bring strong communication skills, logical thinking, and real-world business understanding from customer-facing roles.
+Meet me, Vikas Rangi. I'm transitioning into Data Analytics with hands-on experience in Power BI and data modeling. I bring strong communication skills, logical thinking, and real-world business understanding from customer-facing roles. <br>
+Please explore my projects here. 👉 https://github.com/vikas0328?tab=repositories
 
 <img align="right" alt="GIF" src="https://github.com/vikas0328/About_Me/blob/fc8aab504a17163761f65585b3d1f554bda57c65/never-stop-learning-symbol-wooden-260nw-2004893450.jpg" width="400" height="225" />
 
